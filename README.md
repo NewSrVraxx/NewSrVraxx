@@ -1,6 +1,6 @@
 - 👋 Hello I’m @NewSrVraxx, a random gamer
 - 👀 I joined GitHub so I can work on projects with my friends
-- 🌱 I’m currently doing projects related to fan-made games
+- 🌱 I’m currently doing projects with my friends
 - 💞️ I’m looking to collaborate with all my friends
 - 📫 You can talk to me on Discord (SR VRAXX#7328)
 
