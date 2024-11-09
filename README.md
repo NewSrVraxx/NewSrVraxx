@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm VRAXX</h1>
+<h1 align="center">Howdy 👋, I'm VRAXX</h1>
 <h3 align="center">I do design... stuff...?</h3>
 
 <h3 align="left">Connect with me:</h3>
