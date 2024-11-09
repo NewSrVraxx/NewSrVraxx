@@ -1,10 +1,11 @@
-- 👋 Hello I’m @NewSrVraxx, a random gamer
-- 👀 I joined GitHub so I can work on projects with my friends
-- 🌱 I’m currently doing projects with my friends
-- 💞️ I’m looking to collaborate with all my friends
-- 📫 You can talk to me on Discord (SR VRAXX#7328)
+<h1 align="center">Hi 👋, I'm VRAXX</h1>
+<h3 align="center">I do design... stuff...?</h3>
 
-<!---
-NewSrVraxx/NewSrVraxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me **VRAXX on DISCORD**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
