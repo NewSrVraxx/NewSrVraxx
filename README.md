@@ -1,8 +1,17 @@
-<h1 align="center">Howdy 👋, I'm VRAXX</h1>
-<h3 align="center">I do design... stuff...?</h3>
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<h3 align="left">Connect with me:</h3>
-<h4 align="left">VRAXX on Discord</h3>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> </p>
+<p align="left">My name is VRAXX and I'm silly</p>
+
+###
+
+<h2 align="left">I use</h2>
+
+###
+
+<div align="left">
+<p align="left">figma and paint lol xd</p>
+</div>
+
+###
